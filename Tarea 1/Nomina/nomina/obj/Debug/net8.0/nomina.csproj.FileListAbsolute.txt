@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\bin\Debug\net8.0\nomina.exe
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\bin\Debug\net8.0\nomina.deps.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\bin\Debug\net8.0\nomina.runtimeconfig.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\bin\Debug\net8.0\nomina.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\bin\Debug\net8.0\nomina.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.AssemblyInfo.cs
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\refint\nomina.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\nomina.genruntimeconfig.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Nomina\nomina\obj\Debug\net8.0\ref\nomina.dll

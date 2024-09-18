@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\bin\Debug\net8.0\Vacuna.exe
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\bin\Debug\net8.0\Vacuna.deps.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\bin\Debug\net8.0\Vacuna.runtimeconfig.json
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\bin\Debug\net8.0\Vacuna.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\bin\Debug\net8.0\Vacuna.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.AssemblyInfo.cs
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\refint\Vacuna.dll
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.pdb
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\Vacuna.genruntimeconfig.cache
+C:\Users\micha\Desktop\Codigos\TDS 002\Codigos\Tarea 1\Vacuna\obj\Debug\net8.0\ref\Vacuna.dll
